@@ -1,0 +1,103 @@
+<?php include_once '../header.php'; ?>
+    <!-- ##### Breadcrumb Area Start ##### -->
+    <div class="breadcrumb-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="#">Home</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">About Us</li>
+                        </ol>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ##### Breadcrumb Area End ##### -->
+
+    <!-- ##### About Us Area Start ##### -->
+    <div class="about-us-area about-page section-padding-100">
+        <div class="container">
+            <div class="row align-items-center justify-content-between">
+                <div class="col-12 col-lg-5">
+                    <div class="about-content">
+                        <h2>JAGDAMBA POLYMERS PRIVATE LIMITED</h2>
+                        <p>We're the leading manufacturer of Plastic injection and blow moulded products, offers innovative and highest quality Plastic Houseware products, Plastic Moulded Furniture under the brand “Ankur”, besides PET Preforms and industrial & non-industrial custom moulded products. Our continuously growing large range of plastic consumer products is quite comprehensive, which meets the requirements and satisfaction of the customers in these segments. Constant R&D ensures introduction of new products at regular intervals.</p>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-6">
+                    <div class="about-thumbnail">
+                        <img src="img/about1.jpg" alt="">
+                    </div>
+                </div>
+               <p>The Brand “Ankur”, has gained trust and confidence of the consumers for over 20 years for its super quality, aesthetic, vibrant colours and many other attractive features.  Borne in Odisha, the brand “Ankur” is well established and one of the strongest in its segment in the region, gradually expanding pan India. The products are available in many states and will soon cover the length and breadth of the nation.</p> 
+
+               <p>In existence for over two decades, Jagdamba Polymers has two manufacturing facilities, offering the most innovative and high-quality products with world class manufacturing facilities and latest technology. The raw material is sourced directly from established manufacturers backed with quality certificates and MSDS. Both manufacturing facilities are ISO 9001:2015 compliant, whereas the other unit is also FSMS 9001: 22000 (Food Safety) complaint. The Company also follows Good Manufacturing Practices (GMP) and aims to achieve TPM in due course of time. As a quality-oriented company, we offer the best products to our customers within their budgetary constraints.</p> 
+
+               <p>Expansion of range of products is an ongoing process, whereby new products are introduced based on market research and demand. Household Products offers wide range of Kitchen, Table, bathroom, cleaning, Kids, etc. besides thermo-ware, PET Bottles & containers and injection and blow moulded products. Moulded Furniture offers, wide range of moulded chairs, Tables, stools and many other similar products.</p> 
+
+               <p>We are a developing and progressive company and strive to grow faster. We believe in our mission and integrate them in our business practice. Jagdamba Polymers is a truly “ONE STOP SHOP” for plastic moulding solutions for all its customers</p> 
+            </div>
+        </div>
+    </div>
+    <!-- ##### About Us Area End ##### -->
+
+    <!-- ##### Call To Action Area Start ##### -->
+    <section class="call-to-action-area section-padding-100 bg-img bg-overlay" style="background-image: url(img/homebackground.jpg)">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="call-to-action-content text-center">
+                        <h2>Our Mission & Vision</h2>
+                <div class="row justify-content-center">        
+                    <div class="col-12 col-sm-6 col-lg-4">
+                    <div class="single-why-choose-us mb-100">
+                        <img src="img/core-img/why1.png" alt="">
+                        <h4>Our Mission</h4>
+                        <p>Make our Brand “Ankur” a symbol of Trust for Quality, most favoured brand for the consumer satisfaction and a favoured supplier creating lasting value addition for all the stakeholders. We intend to provide one stop solution to the customers in these segments.</p>
+                    </div>
+                    </div>
+                    <div class="col-12 col-sm-6 col-lg-4">  
+                    <div class="single-why-choose-us mb-100">
+                        <img src="img/core-img/why1.png" alt="">
+                        <h4>Our Vision</h4>
+                        <p>Our mission is to set the highest standards of business ethics & values, introduce innovative products through R&D and provide the best quality of product and service.</p>
+                    </div>
+                    </div>
+                    <div class="col-12 col-sm-6 col-lg-4">
+                    <div class="single-why-choose-us mb-100">
+                        <img src="img/core-img/why1.png" alt="">
+                        <h4>Our Goal</h4>
+                        <p>We have the vision to provide complete solutions to the customers in this segment under one roof.</p>
+                    </div>
+                    </div>
+                 </div>    
+                </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ##### Call To Action Area End ##### -->
+
+    <div class="about-us-area about-page section-padding-100">
+        <div class="container">
+            <div class="row align-items-center justify-content-between">
+                <div class="col-12 col-lg-6">
+                    <div class="about-thumbnail">
+                        <img src="img/about2.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-12 col-lg-5">
+                    <div class="about-content">
+                        <p>We have the credit to be the pioneer to manufacture of these products for the first time in the state of Odisha, situated in the eastern part of India. The range of the products manufactured by us and offered in the market are the widest in its category catering to the need of a wide segment of consumers. The Company is growing at a faster rate by expanding capacity, installing the latest machinery and equipment, introducing new products to become the largest facility in the region to manufacture a wide variety of molded products. The products are manufactured in our highly productive, energy-efficient & microprocessor-controlled machines supported by the highly qualified technical team. We have a strong Research and Development support and testing equipment.</p>
+                    </div>
+                </div>
+                
+               <p>We can also manufacture products as per customers specification and design. Our experience for such products includes Television Cabinets, ABS Plastic Bobbins for Jelly filled and Optic Fiber Cable manufacturers of different sizes ranging from 400 to 630 mm dia, components for Coolers (air-conditioner) and many other such products. Expansion of manufacturing capacity and development of a range of products are an ongoing process, whereby new products are introduced in attractive designs and colors on the basis of market research and demand. In the near future, we have plans to manufacture a wide range of blow molded and thermo-ware products. We are a developing and progressive company and strive to grow faster. We believe in our mission and integrate them into our business practice. We have been honored with national Awards for Outstanding Entrepreneurship (twice) and for Energy Conservation, which reflects our commitment towards our enterprise. </p> 
+            </div>
+        </div>
+    </div>
+
+<?php include_once '../footer.php'; ?>
