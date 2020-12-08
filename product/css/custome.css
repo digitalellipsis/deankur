@@ -1,0 +1,195 @@
+.megamenu-item .megamenu .single-mega li:first-child > a {
+    font-size: 18px;
+    color: #c92f2f;
+    text-decoration: underline;
+    text-decoration-color: #c92f2f;
+    text-decoration-style: solid;
+}
+.subscribe-area .subscribe-form input {
+    width: 270px;
+    height: 47px;
+}
+.subscribe-area .subscribe-form button {
+    top: 0px;
+    height: 47px;
+    right: -87px;
+}
+.single-latest-sermons .sermons-thumbnail .sermons-date {
+    height: 34px;
+    bottom: 206px;
+}
+.single-latest-sermons .sermons-thumbnail .sermons-date h6 span {
+    font-size: 24px;
+}
+.subscribe-text h1 {
+    color: #ffffff!important;
+    font-size: 25px;
+    padding-top: 20px;
+    padding-bottom: 6px;
+    padding-left: 113px;
+}
+.checkout-btn {
+    border: 2px solid #ffffff;
+    border-radius: 21px;
+    font-size: 15px;
+    color: #ffffff;
+    margin-left: 101px;
+    margin-top: 14px;
+    width: 159px;
+    font-weight: 600;
+}
+.checkout-btn:hover{
+    color:#f22121;
+    background-color:#ffffff
+}
+.subscribe-area-data{
+    position: relative;
+  	z-index: 1;
+ 	padding: 40px 0;
+  	background-color: #c92f2f;
+    margin-top: -82px;
+    padding: 2px 0px 14px 0px;
+}
+.product-image img {
+    min-height: 174px;
+    border-radius: 16px;
+    max-height: 174px;
+}
+.product-image{
+    text-align: center;
+}
+.category-content-img img {
+    min-height: 430px;
+}
+.category-content-img a {
+    position: relative;
+    background-color: #c92f2f;
+    width: 120px;
+    top: -39px;
+    left: 65%;
+    color: #000000;
+    font-size: 16px;
+}
+.product-title>a:hover {
+    color: #fe696a;
+}
+.product-title {
+    text-align: left;
+}
+.product-title > a {
+    color: black;
+    text-transform: capitalize;
+    font-weight: 600;
+    font-size: 0.975rem;
+}
+.product-details{
+    padding-left: 6px;
+    padding-right: 6px;
+}
+.section-heading {
+    margin-bottom: 11px;
+}
+.upcoming-events-area.section-padding-0{
+    margin-top: -95px;
+}
+.upcoming-events-area .title {
+    text-align: center;
+    top: -9px;
+    font-size: 37px;
+    margin-top: -38px;
+    color: #ffffff;
+    font-weight: 600;
+}
+@media only screen and (max-width: 744px) {
+    .subscribe-area .subscribe-form input {
+      float: left;
+      margin-top: 4px;
+  	}
+    .subscribe-area .subscribe-form button {
+        position: relative;
+        margin-top: 6px; 
+    }
+}
+
+.owl-prev {
+    width: 15px;
+    height: 100px;
+    position: absolute;
+    top: 40%;
+    margin-left: -20px;
+    display: block !important;
+    border:0px solid black;
+}
+.owl-next {
+    width: 15px;
+    height: 100px;
+    position: absolute;
+    top: 40%;
+    right: -25px;
+    display: block !important;
+    border:0px solid black;
+}
+   
+.owl-prev span {
+  font-size: 50px;
+}
+.owl-next span {
+  font-size: 50px;
+}
+.owl-prev i, .owl-next i {transform : scale(1,6); color: #ccc;}
+@media only screen and (min-width: 744px){
+	.single-latest-sermons .sermons-thumbnail .sermons-date {
+    	height: 34px;
+    	bottom: 183px;
+	}
+}
+@media only screen and (max-width: 744px){
+	.owl-prev{
+		margin-left: 0px;
+	}
+	.item {
+    	margin-left: 26px;
+	}
+}
+
+.products.details.product-details {
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+}
+.imagesrc {
+    display: inline-block;
+    position: relative;
+    max-width: 100%;
+    
+    border-bottom: 1px dotted #ddd;
+}
+.product.text_inner.name p {
+    font-weight: 600;
+    font-size: 18px;
+    cursor: pointer;
+    position: relative;
+    padding-bottom: 0;
+    text-align: center;
+}
+.houseware {
+	position: absolute !important;
+    margin-top: 75px !important;
+    background: none !important;
+    margin-left: -256px !important;
+    color: red !important;
+}
+.forniture{
+	position: absolute !important;
+    margin-top: 75px !important;
+    background: none !important;
+    margin-left: -256px !important;
+    color: red !important;
+}
